@@ -1,0 +1,30 @@
+.card{
+    border: 2px rgb(250, 247, 247) solid ;
+    height: 550px;
+    width:400px;
+    background-color: white;
+    margin: auto;
+   
+}
+.img{
+   margin-top:60px ; 
+    margin-left: 150px;
+}
+.txt{
+    text-align: center;
+}
+#price{
+    text-align: center;
+}
+button{
+   
+    padding: 10px;
+    background-color: green;
+}
+button:hover{
+    background-color: rgb(146, 250, 145);
+   
+}
+body{
+    background-color: antiquewhite;
+}
